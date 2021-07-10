@@ -1,0 +1,12 @@
+{
+    "name": "simpleclub",
+    "theme": "#121e26",
+    "twitter": "simpleclub",
+    "sidebar": [
+      ["Overview", "/"],
+      ["Logo", "/logo"],
+      ["Typography", "/typography"],
+      ["Colors", "/colors"],
+      ["Subjects", "/subjects"]
+    ]
+  }
